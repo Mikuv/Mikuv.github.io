@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Microsoft 365 的域所有权验证文件 - 放置在网站根目录中",
+  "Domain": "lty.pages.dev",
+  "Id": "40877479-d4f8-4e6b-879f-1a5d68d953b5"
+}
